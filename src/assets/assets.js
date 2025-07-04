@@ -40,7 +40,7 @@ export const products = [
     },
         {
         _id: "aaaab",
-        name: "Men Round Nec Cotten Top",
+        name: "Men V Nec Fit Top",
         description: "A lighweight, usually one",
         price: 200,
         image: [logo,search_icon],

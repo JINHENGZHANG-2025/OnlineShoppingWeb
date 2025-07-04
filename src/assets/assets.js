@@ -8,6 +8,7 @@ import stardrop from './stardrop.png'
 import exchange_icon from './exchange_icon.png'
 import quality_icon from './quality_icon.png'
 import support_icon from './support_icon.png'
+import cross_icon from './cross_icon.png'
 
 
 export const assets = {
@@ -20,7 +21,8 @@ export const assets = {
   stardrop,
   exchange_icon,
   quality_icon,
-  support_icon
+  support_icon,
+  cross_icon
 }
 
 export const products = [

@@ -41,7 +41,7 @@ export const products = [
         name: "Men Round Nec Cotten Top",
         description: "A lighweight, usually one",
         price: 200,
-        image: [junimo,logo,search_icon],
+        image: [logo,search_icon],
         category : "Men",
         subCategory: "Topwear",
         sizes: ["M", "L", "XL"],

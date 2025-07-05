@@ -12,6 +12,7 @@ import cross_icon from './cross_icon.png'
 import star_icon from './star_icon.png'
 import star_half_icon from './half_star_icon.png'
 import star_dull_icon from './star_dull_icon.png'
+import bin_icon from './cross_icon.png'
 
 /*----------------- import cloth pic------------------*/
 import cloth_001 from './cloth_001.png'
@@ -29,6 +30,7 @@ import cloth_010 from './cloth_010.png'
 export const assets = {
   junimo,
   logo,
+  bin_icon,
   cart_icon,
   menu_icon,
   profile_icon,
